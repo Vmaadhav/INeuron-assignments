@@ -1,3 +1,1 @@
-# INeuron-assignments
-swdefr
-wdefrgt
+Hello world
